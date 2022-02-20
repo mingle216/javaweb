@@ -1,4 +1,5 @@
-package java基础加强.junit;
+package com.soft2176.junit;
+
 /**
  * @author mingle
  * @date 2022/2/19 20:56
